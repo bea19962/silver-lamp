@@ -1,14 +1,14 @@
 {
-	"quotes": [
+	"questions": [
 
 {
-       "quote":"Wie geht es dir aktuell?"},
+       "text":"Wie geht es dir aktuell?"},
 {
-       "quote":"Wie war deine Woche?"},
+       "text":"Wie war deine Woche?"},
 {
-       "quote":"In welcher Abteilung bist du zurzeit?"},
+       "text":"In welcher Abteilung bist du zurzeit?"},
 {
-       "quote":"Welche Projekte hast du momentan?"}
+       "text":"Welche Projekte hast du momentan?"}
 ]
 }
 
