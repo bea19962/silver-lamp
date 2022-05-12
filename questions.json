@@ -1,14 +1,14 @@
-{
-	"questions": [
-
-{
-       "text":"Wie geht es dir aktuell?"},
-{
-       "text":"Wie war deine Woche?"},
-{
-       "text":"In welcher Abteilung bist du zurzeit?"},
-{
-       "text":"Welche Projekte hast du momentan?"}
+[
+	{
+	       "text":"Wie geht es dir aktuell?"
+	},
+	{
+	       "text":"Wie war deine Woche?"
+	},
+	{
+	       "text":"In welcher Abteilung bist du zurzeit?"
+	},
+	{
+	       "text":"Welche Projekte hast du momentan?"
+	}
 ]
-}
-
