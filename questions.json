@@ -1,10 +1,6 @@
-{
-  "allgemein": [
-    "Wie geht es dir aktuell?",
-    "Wie war deine Woche?",
-  ],
-  "ausbildung":[
+[
+  "Wie geht es dir aktuell?",
+  "Wie war deine Woche?",
   "In welcher Abteilung bist du zurzeit?"
   "Welche Projekte hast du momentan?"
-  ]
-}
+]
