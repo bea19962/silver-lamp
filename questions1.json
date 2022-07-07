@@ -1,6 +1,6 @@
 [
 	{
-		"List1": [
+		"frage1": [
 			{
 			       "text":"Wie geht es dir aktuell?"
 			},
@@ -40,7 +40,7 @@
 		]
 	},
 	{
-		"List2": [
+		"person": [
 			{
 			       "text":"Bea"
 			},
