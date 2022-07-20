@@ -1,0 +1,34 @@
+ "facets" : [ {
+    "id" : "Zur Person",
+    "clicked" : false,
+    "text" : [ 
+      "Würdest du lieber Unsichtbar sein oder Gedanken lesen können?",
+      "Was ist deine Lieblingseissorte?",
+      "Welchen Tag magst du lieber? Samstag oder Sonntag? Und warum?",
+      "Was wäre das Erste, was du tun würdest, wenn du im Lotto 1 Millionen € gewinnst?",
+      "Welche 3 Dinge hast du immer bei dir wenn du unterwegs bist?",
+      "Mit welchem Autoliv Manufacturing Part identifiziert du dich am ehesten? Und warum?",
+      "Was ist deine Lieblingsspielart und welches Spiel? (Brettspiel, Videospiel etc. )",
+      "Wohin willst du mit dem 9€ ticket noch reisen?",
+      "Lieber Tee oder Kaffee?",
+      "Besitzt du eine Youtube/Soundcloud/Spotify Playlist zur Maximierung der Produktivität?",
+      "Lieblings Teams Background?",
+      ]
+  },
+  {
+    "id" : "Person
+    "clicked" : false,
+    "text" : [ 
+      "Bea",
+      "Raphael",
+      "Kubilay",
+      "Keno",
+      "Melina",
+      "Timo",
+      "Marco",
+      "Kilian",
+      "Cheanet",
+      "Stefanie",
+      "Miriam",
+      ]
+    }
