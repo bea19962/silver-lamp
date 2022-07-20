@@ -1,38 +1,41 @@
 [
 	{
-	       "text":"Wie geht es dir aktuell?"
+	       "text":"Würdest du lieber Unsichtbar sein oder Gedanken lesen können?"
 	},
 	{
-	       "text":"Wie war deine Woche?"
+	       "text":"Was ist deine Lieblingseissorte?"
 	},
 	{
 	       "text":"In welcher Abteilung bist du zurzeit?"
 	},
 	{
-	       "text":"Welche Projekte hast du momentan?"
+	       "text":"Welchen Tag magst du lieber? Samstag oder Sonntag? Und warum?"
 	},
 	{
-	       "text":"Lieblings Excel Formula?"
+	       "text":"Was wäre das Erste, was du tun würdest, wenn du im Lotto 1 Millionen € gewinnst?"
 	},
 	{
-	       "text":"Lieblings Outlook functionality?"
+	       "text":"Welche 3 Dinge hast du immer bei dir wenn du unterwegs bist?"
 	},
 	{
-	       "text":"Mit welche Manufacturing Part identifiziert du dich am besten? Und Warum?"
+	       "text":"Mit welchem Autoliv Manufacturing Part identifiziert du dich am ehesten? Und warum?"
 	},
 	{
-	       "text":"Warum?"
+	       "text":"Was ist deine Lieblingsspielart und welches Spiel? (Brettspiel, Videospiel etc. )"
 	},
 	{
-	       "text":"Lieblings Crash Test Dummy?"
+	       "text":"Wohin willst du mit dem 9€ ticket noch reisen?"
 	},
 	{
 	       "text":"Bist du eine Tee Maus oder ein Kaffee Hase?"
 	},
 	{
-	       "text":"Lieblings Teams Background?"
+	       "text":"Lieber Tee oder Kaffee?"
 	},
 	{
-	       "text":"Do you have a  Spotify/SoundCloud/YouTube playlist für maximum productivity gainss?"
+	       "text":"Besitzt du eine Youtube/Soundcloud/Spotify Playlist zur Maximierung der Produktivität?"
+	},
+	{
+	       "text":"Lieblings Teams Background?"
 	}
 ]
